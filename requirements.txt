@@ -1,0 +1,8 @@
+streamlit
+pandas
+transformers
+torch
+langdetect
+reportlab
+spacy>=3.0.0
+pdfplumber
