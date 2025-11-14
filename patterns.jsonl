@@ -1,0 +1,122 @@
+{"label":"CRIME_TYPE","pattern":"Murder"}
+{"label":"LAW_SECTION","pattern":"Section 302 IPC"}
+{"label":"CRIME_TYPE","pattern":"Rape"}
+{"label":"LAW_SECTION","pattern":"Section 376 IPC"}
+{"label":"CRIME_TYPE","pattern":"Kidnapping & Abduction"}
+{"label":"LAW_SECTION","pattern":"Section 354 IPC"}
+{"label":"CRIME_TYPE","pattern":"Dacoity"}
+{"label":"LAW_SECTION","pattern":"Section 395-398 IPC"}
+{"label":"CRIME_TYPE","pattern":"Robbery"}
+{"label":"LAW_SECTION","pattern":"Section 392-394, 397, 398 IPC"}
+{"label":"CRIME_TYPE","pattern":"Burglary"}
+{"label":"LAW_SECTION","pattern":"Section 449-452, 454, 455, 457-460 IPC"}
+{"label":"CRIME_TYPE","pattern":"Theft"}
+{"label":"LAW_SECTION","pattern":"Section 379-382 IPC"}
+{"label":"CRIME_TYPE","pattern":"Riots"}
+{"label":"LAW_SECTION","pattern":"Section 147, 148, 149, 151 IPC"}
+{"label":"CRIME_TYPE","pattern":"Cheating"}
+{"label":"LAW_SECTION","pattern":"Section 420 IPC"}
+{"label":"CRIME_TYPE","pattern":"Counterfeiting"}
+{"label":"LAW_SECTION","pattern":"Section 231-254, 489A-489E IPC"}
+{"label":"CRIME_TYPE","pattern":"Arson"}
+{"label":"LAW_SECTION","pattern":"Section 435, 436 IPC"}
+{"label":"CRIME_TYPE","pattern":"Hurt"}
+{"label":"LAW_SECTION","pattern":"Section 323-338 IPC"}
+{"label":"CRIME_TYPE","pattern":"Dowry Deaths"}
+{"label":"LAW_SECTION","pattern":"Section 304B IPC"}
+{"label":"CRIME_TYPE","pattern":"Assault on Women with Intent to Outrage her Modesty"}
+{"label":"CRIME_TYPE","pattern":"Insult to the Modesty of Women"}
+{"label":"LAW_SECTION","pattern":"Section 509 IPC"}
+{"label":"CRIME_TYPE","pattern":"Cruelty by Husband or his Relatives"}
+{"label":"LAW_SECTION","pattern":"Section 498A IPC"}
+{"label":"CRIME_TYPE","pattern":"Importation of Girls from Foreign Country"}
+{"label":"LAW_SECTION","pattern":"Section 366B IPC"}
+{"label":"CRIME_TYPE","pattern":"Causing Death by Negligence"}
+{"label":"LAW_SECTION","pattern":"Section 304A IPC"}
+{"label":"CRIME_TYPE","pattern":"Other IPC Crimes"}
+{"label":"CRIME_TYPE","pattern":"Total IPC Crimes"}
+{"label":"LOCATION","pattern":"Angul"}
+{"label":"LOCATION","pattern":"Balangir"}
+{"label":"LOCATION","pattern":"Balasore"}
+{"label":"LOCATION","pattern":"Bargarh"}
+{"label":"LOCATION","pattern":"Bhadrak"}
+{"label":"LOCATION","pattern":"Boudh"}
+{"label":"LOCATION","pattern":"Cuttack"}
+{"label":"LOCATION","pattern":"Deogarh"}
+{"label":"LOCATION","pattern":"Dhenkanal"}
+{"label":"LOCATION","pattern":"Gajapati"}
+{"label":"LOCATION","pattern":"Ganjam"}
+{"label":"LOCATION","pattern":"Jagatsinghpur"}
+{"label":"LOCATION","pattern":"Jajpur"}
+{"label":"LOCATION","pattern":"Jharsuguda"}
+{"label":"LOCATION","pattern":"Kalahandi"}
+{"label":"LOCATION","pattern":"Kandhamal"}
+{"label":"LOCATION","pattern":"Kendrapara"}
+{"label":"LOCATION","pattern":"Keonjhar"}
+{"label":"LOCATION","pattern":"Khordha"}
+{"label":"LOCATION","pattern":"Koraput"}
+{"label":"LOCATION","pattern":"Malkangiri"}
+{"label":"LOCATION","pattern":"Mayurbhanj"}
+{"label":"LOCATION","pattern":"Nabarangpur"}
+{"label":"LOCATION","pattern":"Nayagarh"}
+{"label":"LOCATION","pattern":"Nuapada"}
+{"label":"LOCATION","pattern":"Puri"}
+{"label":"LOCATION","pattern":"Rayagada"}
+{"label":"LOCATION","pattern":"Sambalpur"}
+{"label":"LOCATION","pattern":"Subarnapur"}
+{"label":"LOCATION","pattern":"Sundargarh"}
+{"label":"LOCATION","pattern":"Chandrasekharpur"}
+{"label":"LOCATION","pattern":"Markatnagar"}
+{"label":"LOCATION","pattern":"Jeypore"}
+{"label":"LOCATION","pattern":"BaidaNathPur"}
+{"label":"LOCATION","pattern":"Rourkela Sector 7"}
+{"label":"LOCATION","pattern":"Sea Beach"}
+{"label":"LOCATION","pattern":"Saheed Nagar"}
+{"label":"LOCATION","pattern":"Town"}
+{"label":"LOCATION","pattern":"Chauliaganj"}
+{"label":"LOCATION","pattern":"Berhampur Town"}
+{"label":"LOCATION","pattern":"Khandagiri"}
+{"label":"LOCATION","pattern":"Plant Site"}
+{"label":"LOCATION","pattern":"Sunabeda"}
+{"label":"LOCATION","pattern":"Badambadi"}
+{"label":"LOCATION","pattern":"Infocity"}
+{"label":"LOCATION","pattern":"Gopalpur"}
+{"label":"LOCATION","pattern":"Ainthapali"}
+{"label":"LOCATION","pattern":"Rourkela Sector 19"}
+{"label":"LOCATION","pattern":"Baripada"}
+{"label":"LOCATION","pattern":"Marine"}
+{"label":"LOCATION","pattern":"Udala"}
+{"label":"LOCATION","pattern":"Joda"}
+{"label":"LOCATION","pattern":"Rural"}
+{"label":"LOCATION","pattern":"Kalinga Nagar"}
+{"label":"OFFICER","pattern":"SI-JPatel"}
+{"label":"OFFICER","pattern":"SI-AMohanty"}
+{"label":"OFFICER","pattern":"SI-RSwain"}
+{"label":"OFFICER","pattern":"SI-SMishra"}
+{"label":"OFFICER","pattern":"SI-LMurmu"}
+{"label":"OFFICER","pattern":"SI-PKumar"}
+{"label":"OFFICER","pattern":"SI-RDas"}
+{"label":"OFFICER","pattern":"SI-MBehera"}
+{"label":"OFFICER","pattern":"SI-TBehera"}
+{"label":"OFFICER","pattern":"SI-SKMarndi"}
+{"label":"OFFICER","pattern":"SI-BNayak"}
+{"label":"OFFICER","pattern":"SI-RBarik"}
+{"label":"OFFICER","pattern":"SI-PKJena"}
+{"label":"LAW_SECTION","pattern":"Section 379 IPC"}
+{"label":"CRIME_TYPE","pattern":"Assault"}
+{"label":"LAW_SECTION","pattern":"Section 323 IPC"}
+{"label":"CRIME_TYPE","pattern":"Cybercrime"}
+{"label":"LAW_SECTION","pattern":"Section 392 IPC"}
+{"label":"LAW_SECTION","pattern":"Section 457 IPC"}
+{"label":"LAW_SECTION","pattern":"Section 147 IPC"}
+{"label":"CRIME_TYPE","pattern":"Kidnapping"}
+{"label":"LAW_SECTION","pattern":"Section 363 IPC"}
+{"label":"CRIME_TYPE","pattern":"Industrial Theft"}
+{"label":"CRIME_TYPE","pattern":"Cybercrime (Section 66 IT Act)"}
+{"label":"CRIME_TYPE","pattern":"Dowry Death"}
+{"label":"CRIME_TYPE","pattern":"Accident"}
+{"label":"CRIME_TYPE","pattern":"Illegal Mining"}
+{"label":"CRIME_TYPE","pattern":"Smuggling"}
+{"label":"CRIME_TYPE","pattern":"Poaching"}
+{"label":"CRIME_TYPE","pattern":"Extortion"}
+{"label":"LAW_SECTION","pattern":"Section 384 IPC"}
